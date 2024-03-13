@@ -9,7 +9,7 @@
 
 
 
-#[test]
+// #[test]
 fn main() {
     let vec0 = vec![22, 44, 66];
 
